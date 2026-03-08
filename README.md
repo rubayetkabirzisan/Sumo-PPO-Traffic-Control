@@ -136,6 +136,3 @@ netconvert --node-files=nodes.nod.xml \
 ```
 
 ---
-
-## Author
-**Md. Rakeen Islam Nahin** — BSc CSE, MIST, Bangladesh
