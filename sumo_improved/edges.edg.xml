@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edges xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/edges_file.xsd">
+    <!-- Horizontal roads (West-East) -->
+    <edge id="n0_center" numLanes="1" from="n0" to="center" type="car"/>
+    <edge id="center_n1" numLanes="1" from="center" to="n1" type="car"/>
+    <edge id="n1_center" numLanes="1" from="n1" to="center" type="car"/>
+    <edge id="center_n0" numLanes="1" from="center" to="n0" type="car"/>
+
+    <!-- Vertical roads (South-North) -->
+    <edge id="n2_center" numLanes="1" from="n2" to="center" type="car"/>
+    <edge id="center_n3" numLanes="1" from="center" to="n3" type="car"/>
+    <edge id="n3_center" numLanes="1" from="n3" to="center" type="car"/>
+    <edge id="center_n2" numLanes="1" from="center" to="n2" type="car"/>
+</edges>
